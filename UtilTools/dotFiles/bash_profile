@@ -1,0 +1,2 @@
+. ~/functions.sh
+export PATH="/c/Program Files/Microsoft Visual Studio 10.0/Common7/IDE":"/c/Windows/Microsoft.NET/Framework/v4.0.30319":$PATH
